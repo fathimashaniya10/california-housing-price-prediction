@@ -47,5 +47,12 @@ Ridge/Lasso	Regularization
 Random Forest	Bagging ensemble method
 XGBoost	Boosting ensemble method
 ## Dataset
+California Housing Dataset from Scikit-learn.
+
+## Future Improvements
+Deploy model using Flask or Streamlit
+Perform advanced hyperparameter tuning
+Add feature importance visualization
+Experiment with additional ensemble models
 
 California Housing Dataset from Scikit-learn.
